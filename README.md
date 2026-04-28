@@ -1,2 +1,7 @@
-# demo-dental-jaime
-Demo web para Dental Jaime — diseñada por eterlab.
+# Dental Jaime
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
